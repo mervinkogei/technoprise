@@ -1,0 +1,12 @@
+com.example.technoprise.app-main-0 C:\S4T\Demo Projects\flutter_test\android\technoprise\android\app\src\main\res
+com.example.technoprise.app-release-1 C:\S4T\Demo Projects\flutter_test\android\technoprise\android\app\src\release\res
+com.example.technoprise.app-pngs-2 C:\S4T\Demo Projects\flutter_test\android\technoprise\build\app\generated\res\pngs\release
+com.example.technoprise.app-resValues-3 C:\S4T\Demo Projects\flutter_test\android\technoprise\build\app\generated\res\resValues\release
+com.example.technoprise.app-rs-4 C:\S4T\Demo Projects\flutter_test\android\technoprise\build\app\generated\res\rs\release
+com.example.technoprise.app-mergeReleaseResources-5 C:\S4T\Demo Projects\flutter_test\android\technoprise\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.technoprise.app-mergeReleaseResources-6 C:\S4T\Demo Projects\flutter_test\android\technoprise\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.technoprise.app-merged_res-7 C:\S4T\Demo Projects\flutter_test\android\technoprise\build\app\intermediates\merged_res\release
+com.example.technoprise.app-core-1.6.0-8 C:\Users\user\.gradle\caches\transforms-3\3a2f4d98b3b6404c1fa5be33c6d33808\transformed\core-1.6.0\res
+com.example.technoprise.app-jetified-window-1.0.0-beta04-9 C:\Users\user\.gradle\caches\transforms-3\3fc6841a625c2f6f798513da4342f64b\transformed\jetified-window-1.0.0-beta04\res
+com.example.technoprise.app-jetified-window-java-1.0.0-beta04-10 C:\Users\user\.gradle\caches\transforms-3\5b1943f6022f031876b1bcc4cd6f58e6\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.technoprise.app-jetified-annotation-experimental-1.1.0-11 C:\Users\user\.gradle\caches\transforms-3\f3b777a6e3202e8f617aa95a18bb10d0\transformed\jetified-annotation-experimental-1.1.0\res
